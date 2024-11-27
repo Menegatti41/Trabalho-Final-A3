@@ -17,7 +17,7 @@ Gustavo Alderi
 # Diagrama de casos de uso
 
 
-
+![image](https://github.com/user-attachments/assets/6a3f582b-d4b1-4068-b7e7-80ee3ebea484)
 
 
 
