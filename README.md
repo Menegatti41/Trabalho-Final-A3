@@ -37,7 +37,8 @@ Gustavo Alderi
 # Diagrama de Classes de Implementação
 
 
-![Diagrama de caso de uso - Diagrama de caso de uso](https://github.com/user-attachments/assets/67af231e-17fd-4d39-a469-0ef4f905d62f)
+![Diagrama de caso de uso - Diagrama de caso de uso](https://github.com/user-attachments/assets/816beaae-a770-4bbe-889f-e1cced04c38b)
+
 
 
 
