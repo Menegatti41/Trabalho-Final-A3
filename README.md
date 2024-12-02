@@ -25,7 +25,7 @@ Gustavo Alderi
 # Modelo de Domínio
 
 ![Diagrama de caso de uso - Diagrama de caso de uso (6)](https://github.com/user-attachments/assets/ee9ef44e-bc98-4062-ac18-b37aec0aa74a)
-
+![391744118-b30c8e61-9b36-4990-9c91-e65dc1a9682f (1)](https://github.com/user-attachments/assets/ef57259a-1ff1-4fcb-a64a-1cc6e0fbd628)
 
 
 
@@ -34,7 +34,7 @@ Gustavo Alderi
 
 
 
-![Untitled diagram-2024-12-02-230129](https://github.com/user-attachments/assets/8960feac-6d3f-43c9-8045-78e38d5b5af6) ![391744118-b30c8e61-9b36-4990-9c91-e65dc1a9682f (1)](https://github.com/user-attachments/assets/ef57259a-1ff1-4fcb-a64a-1cc6e0fbd628)
+![Untitled diagram-2024-12-02-230129](https://github.com/user-attachments/assets/8960feac-6d3f-43c9-8045-78e38d5b5af6) 
 
 
 
