@@ -33,7 +33,8 @@ Gustavo Alderi
 # Diagrama de Atividades
 
 
-![Untitled diagram-2024-11-25-225134](https://github.com/user-attachments/assets/d4467c9c-d293-449f-ae9e-ff86109f9fbe)
+
+![Untitled diagram-2024-12-02-230129](https://github.com/user-attachments/assets/8960feac-6d3f-43c9-8045-78e38d5b5af6)
 
 
 
