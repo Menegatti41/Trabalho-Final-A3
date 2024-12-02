@@ -16,8 +16,9 @@ Gustavo Alderi
 
 # Diagrama de casos de uso
 
+![image](https://github.com/user-attachments/assets/24e5103f-110c-4cf6-ba81-5113d9dd2e4b)
 
-![Cópia do caso_de_uso_passagem drawio](https://github.com/user-attachments/assets/3d8bdbc1-957f-4f0c-bdf0-42d847934394)
+
 
 
 
