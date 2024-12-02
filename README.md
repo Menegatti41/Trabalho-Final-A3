@@ -42,6 +42,7 @@ Gustavo Alderi
 
 
 
+![hLInZjim3Dtp5OBt3BTskZJN57T3OEGEjpCMun2Gn9IICwJe1_Kx-cDbd2YLxKlHeIF9Pxw7fqS_nWIIEkzcZOCOpT8HXeJc-yoOkNb-Cf_CQn8ARL-Z1tB3LiImXp-j7xFheXfZP5XHf0QksvRrQlZjvkkm3knnsB6GO0sn8Q-gM6TFaB2VDEWw1pA4DsJ1ZbPqeM-kqAA0kwlqfHE](https://github.com/user-attachments/assets/b30c8e61-9b36-4990-9c91-e65dc1a9682f)
 
 
 
