@@ -34,7 +34,7 @@ Gustavo Alderi
 
 
 
-![Untitled diagram-2024-12-02-230129](https://github.com/user-attachments/assets/8960feac-6d3f-43c9-8045-78e38d5b5af6)
+![Untitled diagram-2024-12-02-230129](https://github.com/user-attachments/assets/8960feac-6d3f-43c9-8045-78e38d5b5af6) ![391744118-b30c8e61-9b36-4990-9c91-e65dc1a9682f (1)](https://github.com/user-attachments/assets/ef57259a-1ff1-4fcb-a64a-1cc6e0fbd628)
 
 
 
@@ -42,8 +42,9 @@ Gustavo Alderi
 
 
 
-![391744118-b30c8e61-9b36-4990-9c91-e65dc1a9682f (1)](https://github.com/user-attachments/assets/ef57259a-1ff1-4fcb-a64a-1cc6e0fbd628)
 
+
+![391735238-86bd2c52-0717-4e63-837e-5be3312b07f6](https://github.com/user-attachments/assets/8667368f-f5fe-4c2c-9c4d-4d9ffda3149e)
 
 
 
