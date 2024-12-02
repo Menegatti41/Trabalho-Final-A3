@@ -40,7 +40,8 @@ Gustavo Alderi
 
 
 
-![Diagrama de caso de uso - Diagrama de caso de uso (2)](https://github.com/user-attachments/assets/bca4cf5c-2ba4-4c07-b2ac-9c9272f150a7)
+
+![Diagrama de caso de uso - Diagrama de caso de uso (3)](https://github.com/user-attachments/assets/86bd2c52-0717-4e63-837e-5be3312b07f6)
 
 
 
