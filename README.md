@@ -34,7 +34,7 @@ Gustavo Alderi
 
 
 
-![Untitled diagram-2024-12-02-230129](https://github.com/user-attachments/assets/8960feac-6d3f-43c9-8045-78e38d5b5af6) 
+![Untitled diagram-2024-12-03-000846](https://github.com/user-attachments/assets/c8040f09-8bb2-4354-9782-fc788b90c3a8)
 
 
 
