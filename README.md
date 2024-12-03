@@ -3,7 +3,7 @@
 
 Gabriel Menegatti Livi
 Rafael Machado de Almeida
-Gustavo Alderi 
+Gustavo Alderi Puton
 
 # Casos de uso do sistema de reserva de passagens aéreas
 
